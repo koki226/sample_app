@@ -1,3 +1,8 @@
+サイトURLです
+https://whispering-shore-83745.herokuapp.com/
+
+
+
 
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
